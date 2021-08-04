@@ -7,6 +7,14 @@
 **Gateway** Fica responsável por encapsular a(s) arquitetura(s) da solução e fornecer uma interface de uso para clientes externos. Nesse contexto, pode ter outras responsabilidades, como autenticação, monitoramento e balanceamento de carga.
 :wave:
 
+# Tecnologias Utilizadas
+-	Java 1.8
+-	Spring Boot
+-	Spring Data Elasticsearch
+-	Spring Data Redis
+-	Gradle
+
+
 ## Autor :call_me_hand:
 * Adilson Paraguai S. Santos
 * https://www.linkedin.com/in/adilson-paraguai-b2a47111a/
